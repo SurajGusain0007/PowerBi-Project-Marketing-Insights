@@ -13,6 +13,7 @@ Task Completed
 
 Key Insights:
 1.1 Among 10 thousand respondents, 6038 are male, indicating a 60% preference for energy drinks.
+
 1.2 Survey results reveal energy drinks’ popularity among youngsters, with over 50% aged 19–30; considering ages 15–30 raises the percentage to 70%
 
 2. Consumer Preferences:
@@ -21,6 +22,7 @@ Key Insights:
 
 Key Insights:
 2.1 Caffeine, known for enhancing attention and alertness, is the primary anticipated ingredient in energy drinks, closely followed by vitamins
+
 2.2 Compact & Portable Cans are in high demand, trailed by Innovative Bottle Designs.
 
 3. Competition Analysis:
@@ -29,6 +31,7 @@ Key Insights:
 
 Key Insights:
 3.1 The top reason for choosing the brands by consumers is brand reputation.
+
 3.2 “Sky9” is notably effective, “Gangster” is remarkably healthy, while “Bepsi” raises concerns for being more dangerous
 
 4. Marketing Channels and Brand Awareness:
@@ -47,7 +50,9 @@ Key Insights
 
 Key Insights
 6.1 Supermarkets are the predominant choice for consumers purchasing energy drinks.
+
 6.2 Sports, exercise, and studying/working late; this data underscores greater youth consumption.
+
 6.3 40% of consumers anticipate no packaging change, while 39% are receptive to experimenting with Limited Edition Packaging.
 
 7. Product Development
@@ -56,6 +61,7 @@ Key Insights
 
 Key Insights
 7.1 We should increase Effectiveness
+
 7.2 We should improve and Reduce Sugar Content
 
 
