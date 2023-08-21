@@ -12,6 +12,7 @@ Task Completed
 
 
 Key Insights:
+
 1.1 Among 10 thousand respondents, 6038 are male, indicating a 60% preference for energy drinks.
 
 1.2 Survey results reveal energy drinks’ popularity among youngsters, with over 50% aged 19–30; considering ages 15–30 raises the percentage to 70%
@@ -21,6 +22,7 @@ Key Insights:
 
 
 Key Insights:
+
 2.1 Caffeine, known for enhancing attention and alertness, is the primary anticipated ingredient in energy drinks, closely followed by vitamins
 
 2.2 Compact & Portable Cans are in high demand, trailed by Innovative Bottle Designs.
@@ -30,6 +32,7 @@ Key Insights:
 
 
 Key Insights:
+
 3.1 The top reason for choosing the brands by consumers is brand reputation.
 
 3.2 “Sky9” is notably effective, “Gangster” is remarkably healthy, while “Bepsi” raises concerns for being more dangerous
@@ -39,9 +42,11 @@ Key Insights:
 ![image](https://github.com/SurajGusain0007/PowerBi-Project-Marketing-Insights/assets/100361874/811ddf76-1f20-4ef7-9a54-157462f91ece)
 
 Key Insights:
+
 4.1 Online ads prove highly effective for reaching a wide audience swiftly and economically, as observed earlier
 
 Key Insights
+
 5.1 Among 980 individuals, 455 are familiar with our brand, aligning their average taste rating of 3.3 with the industry average
 
 6. Purchase Behavior:
@@ -49,6 +54,7 @@ Key Insights
 ![image](https://github.com/SurajGusain0007/PowerBi-Project-Marketing-Insights/assets/100361874/e794e642-761f-480b-b166-b769fdaedb0e)
 
 Key Insights
+
 6.1 Supermarkets are the predominant choice for consumers purchasing energy drinks.
 
 6.2 Sports, exercise, and studying/working late; this data underscores greater youth consumption.
@@ -60,6 +66,7 @@ Key Insights
 
 
 Key Insights
+
 7.1 We should increase Effectiveness
 
 7.2 We should improve and Reduce Sugar Content
